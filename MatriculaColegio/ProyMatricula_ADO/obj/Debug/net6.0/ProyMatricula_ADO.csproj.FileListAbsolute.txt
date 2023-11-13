@@ -1,0 +1,15 @@
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\bin\Debug\net6.0\ProyMatricula_ADO.deps.json
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\bin\Debug\net6.0\ProyMatricula_ADO.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\bin\Debug\net6.0\ProyMatricula_ADO.pdb
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\bin\Debug\net6.0\ProyMatricula_BE.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\bin\Debug\net6.0\ProyMatricula_BE.pdb
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.csproj.AssemblyReference.cache
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.AssemblyInfoInputs.cache
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.AssemblyInfo.cs
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.csproj.CopyComplete
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\refint\ProyMatricula_ADO.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ProyMatricula_ADO.pdb
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_ADO\obj\Debug\net6.0\ref\ProyMatricula_ADO.dll

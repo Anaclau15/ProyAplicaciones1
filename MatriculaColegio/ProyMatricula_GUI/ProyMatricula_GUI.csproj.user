@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AlumnoMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlumnoMan02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlumnoMan03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AulaMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AulaMan02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AulaMan03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CursoMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CursoMan02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CursoMan03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatriculaMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatriculaMan02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MatriculaMan03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MDIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfesorMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfesorMan02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfesorMan03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeccionMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeccionMan02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SeccionMan03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsuarioMan01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

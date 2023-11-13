@@ -1,0 +1,12 @@
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\bin\Debug\net6.0\ProyMatricula_BE.deps.json
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\bin\Debug\net6.0\ProyMatricula_BE.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\bin\Debug\net6.0\ProyMatricula_BE.pdb
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.csproj.AssemblyReference.cache
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.AssemblyInfoInputs.cache
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.AssemblyInfo.cs
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.csproj.CoreCompileInputs.cache
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\refint\ProyMatricula_BE.dll
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ProyMatricula_BE.pdb
+C:\Users\ernes\Downloads\captura\isilcursos\ciclo3\DesarrolloAplicaciones\Proyecto\MatriculaColegio\ProyMatricula_BE\obj\Debug\net6.0\ref\ProyMatricula_BE.dll
